@@ -1,0 +1,9 @@
+---
+layout: post
+title: "new-post"
+date: 2013-01-26 16:52
+comments: false
+categories: 
+---
+
+This is a new-post.
