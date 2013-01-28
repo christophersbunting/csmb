@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[An internet website]]></title>
+  <link href="http://www.csmb.me/atom.xml" rel="self"/>
+  <link href="http://www.csmb.me/"/>
+  <updated>2013-01-27T16:14:45-08:00</updated>
+  <id>http://www.csmb.me/</id>
+  <author>
+    <name><![CDATA[csmb]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[new-post]]></title>
+    <link href="http://www.csmb.me/blog/2013/01/26/new-post/"/>
+    <updated>2013-01-26T16:52:00-08:00</updated>
+    <id>http://www.csmb.me/blog/2013/01/26/new-post</id>
+    <content type="html"><![CDATA[<p>This is a new-post.</p>
+]]></content>
+  </entry>
+  
+</feed>
