@@ -4,7 +4,7 @@
   <title><![CDATA[An internet website]]></title>
   <link href="http://www.csmb.me/atom.xml" rel="self"/>
   <link href="http://www.csmb.me/"/>
-  <updated>2013-02-04T21:29:59-08:00</updated>
+  <updated>2013-02-04T22:44:47-08:00</updated>
   <id>http://www.csmb.me/</id>
   <author>
     <name><![CDATA[csmb]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[second post]]></title>
+    <link href="http://www.csmb.me/blog/2013/02/04/second-post/"/>
+    <updated>2013-02-04T22:03:00-08:00</updated>
+    <id>http://www.csmb.me/blog/2013/02/04/second-post</id>
+    <content type="html"><![CDATA[<p>Alright, so here goes. A second post dedicated to my new Macbook Air and what I&#8217;ve got set up on it. I decided to start fresh with just a few of my favorite apps! Here&#8217;s the list of what I&#8217;ve got going on thus far.</p>
+
+<h4>First, the apps I use for coding:</h4>
+
+<ul>
+<li><a href="http://www.iterm2.com/#/section/home">iTerm 2</a></li>
+<li><a href="http://www.sublimetext.com/2">Sublime Text 2</a></li>
+<li><a href="http://www.github.com">Github</a></li>
+<li><a href="http://www.sequelpro.com/">Sequel Pro</a></li>
+</ul>
+
+
+<h4>These are the apps that I use for keepin in touch with folks:</h4>
+
+<ul>
+<li><a href="http://propaneapp.com/">Propane</a></li>
+<li><a href="http://www.skype.com">Skype</a></li>
+<li><a href="https://itunes.apple.com/us/app/twitter/id409789998">Twitter</a></li>
+</ul>
+
+
+<h4>This group is all about keeping me organized and albe to see what I&#8217;m working on:</h4>
+
+<ul>
+<li><a href="http://stereopsis.com/flux/">f.lux</a></li>
+<li><a href="http://www.alfredapp.com/">Alfred</a></li>
+<li><a href="http://www.irradiatedsoftware.com/sizeup/">SizeUp</a></li>
+<li><a href="http://www.macbartender.com/">Bartender</a></li>
+<li><a href="http://www.dropbox.com">Dropbox</a></li>
+</ul>
+
+
+<p>And as always, I&#8217;m 100% behind <a href="http://www.rdio.com/">Rdio</a>.</p>
+
+<p>I&#8217;ve got some more stuff under the hood thanks to <a href="http://mxcl.github.com/homebrew/">homebrew</a>, but that&#8217;s it as far as basic apps. I hope you like what you saw, and give the apps and their devs some &lt;3.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[new-post]]></title>
