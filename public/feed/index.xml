@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[An internet website]]></title>
-  <link href="http://www.csmb.me/atom.xml" rel="self"/>
+  <link href="http://www.csmb.me/feed" rel="self"/>
   <link href="http://www.csmb.me/"/>
   <updated>2013-02-06T23:31:47-08:00</updated>
   <id>http://www.csmb.me/</id>
